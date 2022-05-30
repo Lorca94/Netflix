@@ -3,8 +3,8 @@ import { Pane, Inner, Container, Title, SubTitle, Image, Item } from './styles/i
 
 export default function Inicio({children, direction = 'row', ...restProps }) {
     return(
-        <Item direction={direction}>
-            <Inner>
+        <Item {...restProps}>
+            <Inner direction={direction}>
                 { children }
             </Inner>
         </Item>
