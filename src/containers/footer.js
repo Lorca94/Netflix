@@ -37,6 +37,8 @@ export default function FooterContainer() {
                     <Footer.Link href="#">Garantía legal</Footer.Link>
                 </Footer.Column>
             </Footer.Row>
+            <Footer.Break />
+            <Footer.Link href="https://github.com/Lorca94/" target="_blank">Creado por Lorca94</Footer.Link>
         </Footer>
     );
 } 
