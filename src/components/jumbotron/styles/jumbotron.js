@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Pane = styled.div`
-    width:: 50%;
+    width: 50%;
 
     @media (max-width: 1000px){
         width: 100%;

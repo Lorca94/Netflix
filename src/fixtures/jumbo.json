@@ -1,24 +1,24 @@
 [
     {
         "id":1,
-        "title":"Disfruta en tu televisor.",
-        "subTitle":"En televisores inteligentes, PlayStation, Xbox, Chromecast, Apple TV, reproductores de Blu-ray y más.",
+        "title":"Disfruta de Netflix en tu TV.",
+        "subTitle":"Smart TV, Playstation, Xbox, Chromecast, Apple TV, reproductores Blu-ray y muchos más.",
         "image":"/images/misc/home-tv.jpg",
         "alt":"Imagen película netflix",
         "direction": "row"
     },
     {
         "id": 2,
-        "title": "Descarga tus programas favoritos",
-        "subTitle": "Guarda tus datos para verlas offline.",
+        "title": "Descárgate tus series favoritas para verlas sin conexión.",
+        "subTitle": "Guarda tus títulos favoritos fácilmente para que siempre tengas algo para ver.",
         "image": "/images/misc/home-mobile.jpg",
         "alt": "Vista movil",
         "direction": "row-reverse"
     },
     {
         "id": 3,
-        "title": "Puedes verlo en cualquier lugar.",
-        "subTitle": "Peliculas en streaming ilimitadas en tu teléfono, ordenador o televisión.",
+        "title": "Disfruta en todas partes.",
+        "subTitle": "Reproduce en streaming todas las películas y series en tu móvil, tableta, ordenador y TV sin pagar más.",
         "image": "/images/misc/home-imac.jpg",
         "alt": "Serie en Netflix",
         "direction": "row"
