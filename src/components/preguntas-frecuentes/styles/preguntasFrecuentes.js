@@ -9,7 +9,6 @@ export const Inner = styled.div`
     display:flex;
     padding: 70px 45px;
     flex-direction: column;
-    width: 815px;
     max-width:815px;
     margin: auto;
 `;
@@ -17,8 +16,9 @@ export const Inner = styled.div`
 export const Item = styled.div`
     color: #FFF;
     margin-bottom: 10px;
-    max-width: 670px;
-    
+    max-width: 700px;
+    width: 100%;
+
     &:first-of-type{
         margin-top: 3em;
     }
@@ -42,7 +42,7 @@ export const Header = styled.div`
     display: flex ;
     justify-content: space-between;
     cursor: pointer;
-    margin: bottom: 1px;
+    margin-bottom: 1px;
     font-size: 26px;
     font-weight: normal;
     background: #303030;

@@ -1,6 +1,5 @@
 import React from 'react'
-import { PreguntasFrecuentes } from '../components';
-import PruebameForm from '../components/pruebame-form';
+import { PreguntasFrecuentes, PruebameForm } from '../components';
 import faqsData from '../fixtures/faqs.json';
 
 export default function FaqsContainer () {
